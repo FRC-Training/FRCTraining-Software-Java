@@ -1,3 +1,6 @@
 [submodule "WPILib/Java-WPILib-00-Introduction"]
 	path = WPILib/Java-WPILib-00-Introduction
 	url = https://github.com/FRC-Training/Java-WPILib-00-Introduction.git
+[submodule "WPILib/Java-WPILib-Entrance-Test"]
+	path = WPILib/Java-WPILib-Entrance-Test
+	url = https://github.com/FRC-Training/Java-WPILib-Entrance-Test.git
