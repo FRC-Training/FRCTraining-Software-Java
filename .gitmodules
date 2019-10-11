@@ -4,3 +4,6 @@
 [submodule "WPILib/Java-WPILib-Entrance-Test"]
 	path = WPILib/Java-WPILib-Entrance-Test
 	url = https://github.com/FRC-Training/Java-WPILib-Entrance-Test.git
+[submodule "WPILib/Java-WPILib-Entrance-Test-V2"]
+	path = WPILib/Java-WPILib-Entrance-Test-V2
+	url = https://github.com/FRC-Training/Java-WPILib-Entrance-Test-V2.git
