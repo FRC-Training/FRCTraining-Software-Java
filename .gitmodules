@@ -10,3 +10,12 @@
 [submodule "Java/Java-Java-02-Variables"]
 	path = Java/Java-Java-02-Variables
 	url = https://github.com/FRC-Training/Java-Java-02-Variables.git
+[submodule "WPILib/Java-WPILib-01-Robot"]
+	path = WPILib/Java-WPILib-01-Robot
+	url = https://github.com/FRC-Training/Java-WPILib-01-Robot.git
+[submodule "Java/Java-Java-03-Math"]
+	path = Java/Java-Java-03-Math
+	url = https://github.com/FRC-Training/Java-Java-03-Math.git
+[submodule "WPILib/Java-WPILib-03-Commands"]
+	path = WPILib/Java-WPILib-03-Commands
+	url = https://github.com/FRC-Training/Java-WPILib-03-Commands.git
